@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "ig-cline",
+    "slug": "ig-cline",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "ig-cline"
+}
